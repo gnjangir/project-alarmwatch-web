@@ -1,6 +1,6 @@
 # features
-Clock showing the current time
-Set Alarm
+Clock showing the current time\
+Set Alarm\
 Delete Alarm
 
 # source code :
